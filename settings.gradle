@@ -1,0 +1,2 @@
+include ':MaksymTestCD'
+rootProject.name = "MaksymTest2"

@@ -1,0 +1,15 @@
+<!--Maksym Kalinichenko N01295205 CENG 258 RNC-->
+<resources>
+    <string name="app_name">Maksym Kalinichenko N01295205</string>
+    <string name="maintext">Maksym Kalinichenko N01295205</string>
+    <string name="login">Maksym</string>
+    <string name="pass">01295205</string>
+    <string name="btn">MAKSYM SIGN IN</string>
+    <string name="txtonbtn">Ok</string>
+    <string name="question">Invalid name/password, please try again</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item">\"Item: \"</string>
+
+
+</resources>

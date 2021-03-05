@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#0CC6E8"
+    tools:context=".KalinichenkoFragment2">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="#0CC6E8">
+
+        <TextView
+            android:id="@+id/mksft1"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#0CC6E8"
+            android:backgroundTint="#0CC6E8"
+            android:text=""
+            android:textAlignment="center"
+            android:textColor="#FFEB3B"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/mksft2"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="#0CC6E8"
+            android:backgroundTint="#0CC6E8"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+    </RadioGroup>
+
+</FrameLayout>
